@@ -39,4 +39,4 @@ for file in os.listdir('./cogs'):
     if file.endswith('.py'):
         bot.load_extension(f'cogs.{file[:-3]}')
 
-bot.run('MTI4MDkyNzM2MDAzMTUyMjg5MA.GbQX2C.MvI3ufjtJpP--ObvaR-AOQUIz_7oVlaY-XGrPs')
+bot.run('токен')
